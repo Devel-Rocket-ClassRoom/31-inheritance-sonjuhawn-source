@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodingPractice\CodingPractice.csproj" />
+  <Project Path="EmployeeSystem\EmployeeSystem.csproj" />
+  <Project Path="ZooSimulator\ZooSimulator.csproj" />
+</Solution>
